@@ -1,0 +1,23 @@
+/* src/MachineSelection.css */
+
+.machine-selection-container {
+    text-align: center;
+  }
+  
+  .machine-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .machine-item {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .machine-image {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+  }
+  
